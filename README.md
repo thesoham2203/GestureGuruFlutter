@@ -1,8 +1,4 @@
-Here is a **standalone `README.md` file** tailored for your **GestureGuru Flutter GitHub repository**, ready to be placed directly into your repo:
 
----
-
-```markdown
 # 📱 GestureGuru Flutter App
 
 **GestureGuru** is an inclusive mobile application that enables users to **learn and translate American Sign Language (ASL)** in real-time. This Flutter-based frontend interacts with a FastAPI-powered backend to provide accurate gesture recognition using machine learning.
